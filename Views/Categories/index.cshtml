@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Categories";
+}
+@model IEnumerable<Category>
+
+<div style=" display: flex; flex-direction:column ; width: 100%; background-color: whitesmoke;  " >
+    <div style="display: flex; justify-content:space-between ;">
+    <h1>
+        Categoreies
+    </h1>
+    <a asp-action="create" asp-controller="Categories"> Add </a>
+    </div>
+    @if(!Model.Any()){
+    <div>
+       no  Categories available
+    </div>    
+    }else{
+    <table>
+        <tr>
+        <th>ID</th>
+        <th>name</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>test</td>
+
+        </tr>
+    </table>
+    }
+
+</div>
