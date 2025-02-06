@@ -197,3 +197,5 @@ E:\bookify\Bookify\obj\Debug\net8.0\Bookify.pdb
 E:\bookify\Bookify\obj\Debug\net8.0\Bookify.genruntimeconfig.cache
 E:\bookify\Bookify\obj\Debug\net8.0\ref\Bookify.dll
 e:\bookify\Bookify\obj\Debug\net8.0\Bookify.sourcelink.json
+e:\bookify\Bookify\bin\Debug\net8.0\AutoMapper.dll
+e:\bookify\Bookify\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

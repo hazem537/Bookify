@@ -1,0 +1,29 @@
+@model AuthorFormViewModel
+@{
+    ViewData["Title"] = (Model?.ID > 0 ? "Update" : "Add") + " Authour";
+}
+<div>
+
+    <h1>
+        @Model?.ID
+    </h1>
+        <form method="post" asp-controller="Authors">
+
+        @if( Model?.ID is not null ){
+            <input type="hidden" asp-for="ID" />
+            }
+            <label > Name of Authour</label>
+            <input name="Name" asp-for="Name" />
+            <span asp-validation-for="Name"></span>
+            <button type="submit">
+                @(Model?.ID > 0 ? "Update" : "Add")
+            </button>
+        </form>
+    
+    
+    </div>
+
+    @section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+    }

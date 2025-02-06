@@ -9,9 +9,16 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
-    public  DbSet<Category> Categories { get;set;}
-    // protected override void OnModelCreating(ModelBuilder builder){
+    public DbSet<Author> Authors { get; set; }
+    public DbSet<Book> Books { get; set; }
+    public DbSet<BookCategory> BookCategories { get; set; }
+    public DbSet<Category> Categories { get; set; }
 
-    //     base.OnModelCreating(builder);
-    // }
+    protected override void OnModelCreating(ModelBuilder builder)
+    {
+        // make compoiste key 
+        builder.Entity<BookCategory>().HasKey(e=>new{e.BookId ,e.CategoryId});
+
+        base.OnModelCreating(builder);
+    }
 }

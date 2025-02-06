@@ -1,14 +1,14 @@
 @{
-    ViewData["Title"] = "Categories";
+    ViewData["Title"] = "Authours";
 }
-@model IEnumerable<Category>
+@model IEnumerable<Author>
 
 <div style=" display: flex; flex-direction:column ; width: 100%; background-color: whitesmoke;  ">
     <div style="display: flex; justify-content:space-between ;">
         <h1>
-            Categoreies
+            Authours
         </h1>
-        <a asp-action="create" asp-controller="categories"> Add </a>
+        <a asp-action="create" asp-controller="Authors"> Add </a>
     </div>
     @if (!Model.Any())
     {
@@ -32,13 +32,13 @@
             @foreach (var item in Model)
             {
                 <tr>
-                    <td>@item.Id</td>
+                    <td>@item.ID</td>
                     <td>@item.Name</td>
-                    <td>@item.CreatedOnly.ToString()</td>
-                    <td>@item.LastUpdatedOn?.ToString()</td>
-                    <td>@(item.IsDeleated ? "Deleted" : "Avilable")</td>
+                    <td>@item.CreatedAt.ToString()</td>
+                    <td>@item.UpdatedAt?.ToString()</td>
+                    <td>@(item.IsDeleted ? "Deleted" : "Avilable")</td>
                     <td>
-                        <a asp-controller="Categories" asp-action="Edit" asp-route-Id="@item.Id"> Edit</a>
+                        <a asp-controller="Authors" asp-action="Edit" asp-route-Id="@item.ID"> Edit</a>
                     </td>
                 </tr>
             }

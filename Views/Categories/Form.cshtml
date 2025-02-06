@@ -1,0 +1,25 @@
+@model CategoryFormViewModel
+@{
+    ViewData["Title"] = (Model?.Id > 0 ?   "Update" : "Add") + " Category";
+}
+<div>
+
+    <h1>
+        @Model?.Id
+    </h1>
+    <form method="post" asp-controller="categories">
+        @if (Model?.Id > 0)
+        {
+            <input type="hidden" asp-for="Id" />
+        }
+        <label > Name of category</label>
+        <input name="Name" asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+        <button type="submit">
+            @(Model?.Id > 0 ?   "Update" : "Add")
+        </button>
+    </form>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

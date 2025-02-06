@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ROt6qrS1duGvOBwlZKMBJxwAZqNReRwIXcAjD6+i3Bk=",
+  "Hash": "Duwaicjv8Jx92tWGpQg0xNFSDE1IlfLhAV+TyHddZHc=",
   "Source": "Bookify",
   "BasePath": "_content/Bookify",
   "Mode": "Default",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\Assem Morsy\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bookify.styles.css",
+      "Identity": "E:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bookify.styles.css",
       "SourceId": "Bookify",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Bookify",
       "RelativePath": "Bookify.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bookify.styles.css"
+      "OriginalItemSpec": "E:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bookify.styles.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bookify.bundle.scp.css",
+      "Identity": "E:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bookify.bundle.scp.css",
       "SourceId": "Bookify",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Bookify",
       "RelativePath": "Bookify.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,10 +1192,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bookify.bundle.scp.css"
+      "OriginalItemSpec": "E:\\bookify\\Bookify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bookify.bundle.scp.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\css\\site.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\css\\site.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1214,7 +1214,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\favicon.ico",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\favicon.ico",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1233,7 +1233,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\js\\site.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\js\\site.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1252,7 +1252,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1271,7 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1290,7 +1290,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1309,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1328,7 +1328,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1347,7 +1347,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1366,7 +1366,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1385,7 +1385,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1404,7 +1404,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1423,7 +1423,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1442,7 +1442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1461,7 +1461,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1480,7 +1480,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1499,7 +1499,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1518,7 +1518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1537,7 +1537,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1556,7 +1556,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1575,7 +1575,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1594,7 +1594,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1613,7 +1613,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1632,7 +1632,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1651,7 +1651,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1670,7 +1670,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1689,7 +1689,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1708,7 +1708,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1727,7 +1727,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1746,7 +1746,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1765,7 +1765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1784,7 +1784,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1803,7 +1803,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1822,7 +1822,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1841,7 +1841,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1860,7 +1860,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1879,7 +1879,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1898,7 +1898,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1917,7 +1917,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1936,7 +1936,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1955,7 +1955,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1974,7 +1974,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -1993,7 +1993,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2012,7 +2012,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2031,7 +2031,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2050,7 +2050,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2069,7 +2069,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2088,7 +2088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2107,7 +2107,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2126,7 +2126,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2145,7 +2145,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2164,7 +2164,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2183,7 +2183,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2202,7 +2202,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2221,7 +2221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2240,7 +2240,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2259,7 +2259,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2278,7 +2278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2297,7 +2297,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
@@ -2316,7 +2316,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "e:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\bookify\\Bookify\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Bookify",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\bookify\\Bookify\\wwwroot\\",
