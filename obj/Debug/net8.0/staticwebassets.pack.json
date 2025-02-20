@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\bookify\\Bookify\\wwwroot\\images\\books\\142d773b-ef06-4eb3-90f0-5d45cdf6d39a.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\142d773b-ef06-4eb3-90f0-5d45cdf6d39a.jpg"
+    },
+    {
+      "Id": "E:\\bookify\\Bookify\\wwwroot\\images\\books\\452d8880-96c5-4675-9778-3f277364ff2d.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\452d8880-96c5-4675-9778-3f277364ff2d.jpg"
+    },
+    {
+      "Id": "E:\\bookify\\Bookify\\wwwroot\\images\\books\\47c653bf-d358-4c19-ab6a-0f849e4067b3.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\47c653bf-d358-4c19-ab6a-0f849e4067b3.jpg"
+    },
+    {
+      "Id": "E:\\bookify\\Bookify\\wwwroot\\images\\books\\6282b8c1-6551-478e-95a8-3ddbfc8cba74.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\6282b8c1-6551-478e-95a8-3ddbfc8cba74.jpg"
+    },
+    {
+      "Id": "E:\\bookify\\Bookify\\wwwroot\\images\\books\\843df4dc-dff7-41e0-8d1c-9abd4fc8e013.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\843df4dc-dff7-41e0-8d1c-9abd4fc8e013.jpg"
+    },
+    {
+      "Id": "E:\\bookify\\Bookify\\wwwroot\\images\\books\\a226a046-b994-43da-b689-53b085c86b95.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\a226a046-b994-43da-b689-53b085c86b95.jpg"
+    },
+    {
       "Id": "E:\\bookify\\Bookify\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

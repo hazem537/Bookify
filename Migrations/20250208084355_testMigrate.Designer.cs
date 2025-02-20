@@ -4,6 +4,7 @@ using Bookify.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Bookify.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250208084355_testMigrate")]
+    partial class testMigrate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,8 +24,6 @@ namespace Bookify.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.HasSequence<int>("SERIALNUMBER");
 
             modelBuilder.Entity("Bookify.Core.Models.Author", b =>
                 {
@@ -121,44 +122,6 @@ namespace Bookify.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("BookCategories");
-                });
-
-            modelBuilder.Entity("Bookify.Core.Models.BookCopy", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("BookId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("CreatedOn")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("EditionNumber")
-                        .HasColumnType("int");
-
-                    b.Property<bool>("IsAvilabelForRental")
-                        .HasColumnType("bit");
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
-
-                    b.Property<int>("SerialNumber")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasDefaultValueSql("NEXT VALUE FOR SERIALNUMBER ");
-
-                    b.Property<DateTime?>("UpdatedOn")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("BookId");
-
-                    b.ToTable("BookCopies");
                 });
 
             modelBuilder.Entity("Bookify.Core.Models.Category", b =>
@@ -420,17 +383,6 @@ namespace Bookify.Migrations
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("Bookify.Core.Models.BookCopy", b =>
-                {
-                    b.HasOne("Bookify.Core.Models.Book", "Book")
-                        .WithMany("Copies")
-                        .HasForeignKey("BookId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Book");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -485,8 +437,6 @@ namespace Bookify.Migrations
             modelBuilder.Entity("Bookify.Core.Models.Book", b =>
                 {
                     b.Navigation("Categories");
-
-                    b.Navigation("Copies");
                 });
 
             modelBuilder.Entity("Bookify.Core.Models.Category", b =>

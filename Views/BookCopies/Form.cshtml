@@ -1,0 +1,25 @@
+@model BookCopyFormViewModel
+<form method="post" asp-controller="BookCopies" asp-action="@(Model.Id > 0 ? "Edit" : "Create")">
+
+    <input type="hidden" asp-for="BookID">
+    @if (Model.Id > 0)
+    {
+        <input type="hidden" asp-for="Id">
+    }
+    <label asp-for="EditionNumber"></label>
+    <input type="text" asp-for="EditionNumber">
+    <span asp-validation-for="EditionNumber"></span>
+    <br>
+    @if (Model.BookForRental)
+    {
+
+        <label asp-for="IsAvilabelForRental"></label>
+        <input type="text" asp-for="IsAvilabelForRental">
+    }
+
+    <button type="submit"> @(Model.Id>1 ? "Edit" :"Add") </button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

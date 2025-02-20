@@ -1,0 +1,78 @@
+@model BookFormViewModel
+@{
+    ViewData["Title"] = (Model.Id > 0 ? "Update" : "Add") + " Book";
+}
+<div>
+
+    <h1>
+        @Model.Id
+    </h1>
+
+    <form method="post" asp-controller="Books" enctype="multipart/form-data">
+
+        @if (Model.Id >0)
+        {
+            <input type="hidden" asp-for="Id" />
+        }
+
+        <label> Title</label>
+        <input name="Title" asp-for="Title" />
+        <span asp-validation-for="Title"></span>
+        <br>
+
+
+        <label asp-for="AuthorId"> </label>
+        <select name="AuthorId" asp-for="AuthorId" asp-items="@Model?.Authors">
+        </select>
+        <span asp-validation-for="AuthorId"></span>
+        <br>
+
+        <label> Publisher</label>
+        <input name="Publisher" asp-for="Publisher" />
+        <span asp-validation-for="Publisher"></span>
+        <br>
+
+
+        <label> Publishing Date</label>
+        <input name="PublishingDate" type="date" asp-for="PublishingDate" />
+        <span asp-validation-for="PublishingDate"></span>
+        <br>
+
+        <label> Image</label>
+        <input name="Image" type="file" asp-for="Image" />
+        <span asp-validation-for="Image"></span>
+
+        <br>
+
+
+        <label> Hall </label>
+        <input name="Hall" asp-for="Hall" />
+        <span asp-validation-for="Hall"></span>
+        <br>
+
+        <input type="checkbox" asp-for="IsAvilabelForRental">
+        <label asp-for="IsAvilabelForRental"></label>
+        <br>
+
+        <label asp-for="Description"> Description</label>
+        <textarea asp-for="Description"> </textarea>
+        <span asp-validation-for="Description"></span>
+        <br>
+        <label> Categories</label>
+        <select name="SelectedCategories" asp-for="SelectedCategories" asp-items="@Model?.Categories">
+        </select>
+        <span asp-validation-for="SelectedCategories"></span>
+        <br>
+
+        <button type="submit">
+            @(Model?.Id > 0 ? "Update" : "Add")
+        </button>
+    </form>
+
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+}

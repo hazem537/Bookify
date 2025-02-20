@@ -1,0 +1,45 @@
+@model  BookViewModel;
+@{
+    ViewData["title"]="Book";
+}
+<h1>Hello in details  </h1>
+<h3>@Model.Id</h3>
+<h3>@Model.Title</h3>
+<h3>@Model.Description</h3>
+<h3>@Model.AuthorName</h3>
+<div class="categories">
+    @foreach (var category in Model.Categories)
+    {
+        <span class="category">@category</span>
+    }
+</div>
+<h3>@Model.PublishingDate</h3>
+<h3>@Model.Publisher</h3>
+<h3>copies @Model.Copies.Count() <a asp-controller="BookCopies" asp-action="Create" asp-route-bookId="@Model.Id">Add </a></h3>
+<table >
+    <tr>
+    <th> SerialNumber  </th>
+    <th> Edition  </th>
+    <th> Rental ?  </th>
+    <th> status  </th>
+    <th> ceated on   </th>
+    <th> Actions   </th>
+    </tr>
+    @foreach(var copy  in Model.Copies){
+    <tr>
+        <td>@copy.SerialNumber</td>
+        <td>@copy.EditionNumber</td>
+        <td>@copy.IsAvilabelForRental</td>
+        <td>hh</td>
+        <td>@copy.CreatedOn</td>
+        <td>
+<a asp-action="Edit" asp-controller="BookCopies" asp-route-copyID="@copy.Id"> edit</a>
+
+        </td>
+
+
+
+    </tr>
+    }
+
+</table>
